@@ -1,0 +1,9 @@
+{
+    "title": "BC_01 Bias Corrected Estimation of Paleointensity",
+    "creators": [
+      {"name":"Brendan Cych","affiliation":"Scripps Institution of Oceanography, UCSD", "orcid":"0000-0003-2387-3544"},
+    {"name":"Matthias Morzfeld","affiliation":"Scripps Institution of Oceanography, UCSD", "orcid":"0000-0003-2257-8930"},
+     {"name":"Lisa Tauxe","affiliation":"Scripps Institution of Oceanography, UCSD", "orcid":"0000-0002-4837-8200"}   
+    ],
+    "keywords": ["Data Analysis", "Paleomagnetism", "Paleointensity", "Markov Chain Monte Carlo", "Bayesian Statistics"]
+}
